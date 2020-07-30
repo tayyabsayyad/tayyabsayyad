@@ -6,7 +6,7 @@ I am Open Source Enthusiast
 
 - 🔭 I’m currently working on following projects
    + Ground Water Goveranance System using Crowd sourceing Approach [Demo](http://mahabhujal.in/)
-   + NSS Students diary Project Web and Android Application (Soon Iit will be open source )
+   + NSS Students diary project Web and Android Application (Soon it will be open source )
 
 - Software I Use 
    + Operating System [Manjaro Linux](https://manjaro.org/)
