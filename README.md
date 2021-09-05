@@ -5,7 +5,7 @@ Asst Professor, [Don Bosco Institute of Technology](https://www.dbit.in/). Mumba
 I am Open Source Enthusiast
 
 - 🔭 I’m currently working on following projects
-   + Ground Water Goveranance System using Crowd sourceing Approach [Demo](http://mahabhujal.in/)
+   + Ground Water Goveranance System using Crowd sourceing Approach 
    + NSS Students diary project Web and Android Application (Soon it will be open source )
 
 - Software I Use 
